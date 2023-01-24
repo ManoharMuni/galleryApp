@@ -1,0 +1,19 @@
+/* Write your code here. */
+.buttons {
+  background-color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  border: 0px;
+}
+
+.list-item {
+  border: 0px;
+}
+
+.image {
+  opacity: 0.5;
+}
+
+.image2 {
+  opacity: 1;
+}

@@ -1,0 +1,32 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+.card-container {
+  max-width: 1000px;
+  height: 90vh;
+}
+.image1 {
+  height: 70vh;
+  width: 100%;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.list-container {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+  background-color: #ffffff;
+}
